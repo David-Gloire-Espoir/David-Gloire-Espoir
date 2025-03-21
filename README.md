@@ -4,12 +4,12 @@
 - also a fullstack web developer (greatest in PHP , HTML , CSS , Js , Bootstrap & MySQL)
 - Supposed to hold bachelor's degree in Software Engineering Dec 2023
 
-  Telegram : +250780126269 , 
-  Whatsapp:  +250780126269 , 
-  Calls   :  +250780126269 , 
+  Telegram : +250789062904 , 
+  Whatsapp:  +250789062904 , 
+  Calls   :  +250789062904 , 
 
   Email :    davidgloire01@gmail.com
-  Whatsapp: https://api.whatsapp.com/send?phone=250780126269
+  Whatsapp: https://api.whatsapp.com/send?phone=250789062904
   
 SOME DEVELOPED AND HOSTED WEBSITES (Designed , developed and hosted BY ME )
 
