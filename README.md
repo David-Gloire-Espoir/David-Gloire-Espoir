@@ -1,18 +1,3 @@
-- 👋 Hi, I’m @David-Gloire-Espoir
-
-- i am  Experienced in business Administration as i worked for Multiple Network Solutions Ltd in Rwanda , as a Chief Operations Officer for three years.
-- also a fullstack web developer (greatest in PHP , HTML , CSS , Js , Bootstrap & MySQL)
-- Supposed to hold bachelor's degree in Software Engineering Dec 2023
-
-  Telegram/calls : +250789062904 , 
-  Whatsapp/calls:  +250726140003 , 
-  
-
-  Email :    davidgloire01@gmail.com
-  Whatsapp: https://api.whatsapp.com/send?phone=250789062904
-  
-SOME DEVELOPED AND HOSTED WEBSITES (Designed , developed and hosted BY ME )
-
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 my name: Gloire DAVID ESPOIR Education level: Bachelor's of science in SOFTWARE ENGINEERING Work experience:
@@ -27,7 +12,7 @@ Action for Women Foundation (AWF) NGO - web development and database management 
 Snap Creative Room Ltd (snapcreativeroom.rw)
 Climate Change for Women Initiative NGO (ccwi.org.rw)
 thousandhillsexplorers.rw
-and other many web apps.
+and other many web apps , and IOT systems.
 
 My phone number : +250789062904
 WhatsApp: +250726140003
