@@ -4,20 +4,43 @@
 - also a fullstack web developer (greatest in PHP , HTML , CSS , Js , Bootstrap & MySQL)
 - Supposed to hold bachelor's degree in Software Engineering Dec 2023
 
-  Telegram : +250789062904 , 
-  Whatsapp:  +250789062904 , 
-  Calls   :  +250789062904 , 
+  Telegram/calls : +250789062904 , 
+  Whatsapp/calls:  +250726140003 , 
+  
 
   Email :    davidgloire01@gmail.com
   Whatsapp: https://api.whatsapp.com/send?phone=250789062904
   
 SOME DEVELOPED AND HOSTED WEBSITES (Designed , developed and hosted BY ME )
 
-https://globallinks.rw/ , 
-https://globallinks.rw/ , 
-https://globallinks.rw/index2.php  ,  
-https://globallinks.rw/admin/index.php , 
-https://globallinks.rw/inventory/login
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+my name: Gloire DAVID ESPOIR Education level: Bachelor's of science in SOFTWARE ENGINEERING Work experience:
+• 	IT Specialist & Graphics designer at MULTIPLE NETWORK SOLUTIONS , for 3 years
+• 	INtenship as IT and database administration at RMB (Rwanda Mining , petroleum and Gas Board) for 3 months
+• 	Volunteering as Senior IT , Communication and Partnership officer at OEPESD TABARA NGO from 06th November 2024
+-	Data Collector (Enumerator) to collect field data in support of the YEAH! Project in Rusizi and Nyanza Districts from UNFPA implemented by BRAC NGO
+i am the best candidate on the positions related to IT or Developer because i have worked with many NGOs in IT and webdevelopment projects including :
+Rwachi NGO- social media creations and content creations
+OEPESD TABARA -web development and database management
+Action for Women Foundation (AWF) NGO - web development and database management & social media creations and content creations(awf.org.rw)
+Snap Creative Room Ltd (snapcreativeroom.rw)
+Climate Change for Women Initiative NGO (ccwi.org.rw)
+thousandhillsexplorers.rw
+and other many web apps.
+
+My phone number : +250789062904
+WhatsApp: +250726140003
+Email: davidgloire01@gmail.com
+BirthDay: 16th July 1999
+Adress: Kigali , Rwanda - Kinyinya
+Nationality: Rwandan
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 ORDER YOUR WEBSITE AND I DEVELOP&HOST IT WITHIN 10DAYS ONLY! AT LOWEST PRICE (FROM 185USD)
 
